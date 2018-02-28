@@ -1,6 +1,8 @@
 jobs:
 - name: hello-world
   plan:
+  - get: pipeline-repo
+    trigger: true
   - task: say-hello
     config:
       platform: linux
@@ -10,3 +12,11 @@ jobs:
       run:
         path: echo
         args: ["Hello, world!"]
+
+resources:
+- name: pipeline-repo
+  type: git
+  source:
+    uri: git@github.com:heycait/pipeline-code.git
+    branch: master
+
