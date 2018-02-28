@@ -19,4 +19,31 @@ resources:
   source:
     uri: git@github.com:heycait/pipeline-code.git
     branch: master
-
+    private_key: |
+      -----BEGIN RSA PRIVATE KEY-----
+      MIIEpAIBAAKCAQEArvHTxU0ikBWdgG8uwOSLulQXiIqxWTcw76gnIAJtEKg776Z1
+      8GNjnsNs/ux1dOxZsCgMVUDyyzwsmaY7IWGaKrV9N8z/ktkG8WJD885ScbT6OjPj
+      l/KukdNAIr5SJcavYoh/uxCNGPLrRsyvFziZ5FwIo+hY4LJP/WHZUWsf8rvj9eRm
+      x7ewU2wHzJneTjqDTon9zO8MTG0sbiVKBC1ShMol7HRmeu59U20625laOs2vPX0D
+      N2dk1wJHOw6LC3sXdEStyoLvUmHZx/skmxX9e7EJo/szm2tcDI59yXsMbHdYBWn+
+      Se+6B+dt4khkV3sUsdLY6UB+/0+i8cjzdRqAlQIDAQABAoIBAGxZL4w5upc8G+Do
+      ey9SHMvYuv6Az1fu26sCHMExX3T6jKxfDxpDo/Y3GLFFp3Uz0FROaVz/rZ97dC/x
+      CRwig8XBw3ykxQCg0zD6aBV+igcMTBFyA5oe3klIaada8iudQxAmc91aYdi60kZ2
+      DFa4Ym9RJLTG+QyowuuuB1bqns3I00eyD8oRwdc+Wl1YbHUhg3ppHBfwo6Vp39kI
+      mElnXnKPFphR2e34E9uqpbmWS4ZCl5GfdxLBOFe1MLm0d6vDcDN2Y0473MB/z40v
+      h4eEcXqRyhEHXjeQ1+LVjGqkYbYKdM5h/u1gRAHZEhMSxjc/Vv0IV+Dxg44t8PUW
+      d3nR150CgYEA5rnA+PfW0R0Ezc+91BtW4GCv+SkZv6Hm2wiLdeTlQgI3FiAPlT+K
+      VvR1I/1pZVtm9Mnw23kyvjTL/lnMTHv8Gc01cI9uOgK+wTmDW4w5Dy1fpNZtBgcl
+      g+giDQ1I1PYq1Kbebq6Ta4qRlnAAvwPIUTn5eHn8x7bjYJk2x5fHugcCgYEAwhvO
+      T6tgKBkBJeucYhw/Ljj1okRzwyoB4rN44mujRDj/maAgqTILQ76wbnwsqD5uFv6W
+      gDfOI/tg/M3TRj9Zx2ytUo680Yoc/LXn5xYD9ZwIXabdXmjNwPWViTl51PRoqa+m
+      Vs1zWBg5qwsXBBqgvhrRIKYaPlIIJTAdSLr/eYMCgYEAx/IN0zQkS0/Ui+8N2LRg
+      k0328fu2PqW1g/dhtCdKretxhZD/MB3CaxyqLyg6oAWXsWcXfXsIiGEEr0VukJGZ
+      pVp6hzMlGMysNpL6zOk1wXtWuWjBTkn/LtKKP7lVdohmEacSd+R+COIqzK3/V4mV
+      nR6anNdKQmCxp1LfcBSOlx0CgYBznhRZJ/7yY1Jnv9s6JREM+yh0Ksm5KcBNxBDw
+      7KQm8rxsSRCrNv+2rlJwvM3suKLiV2pVnOfQTt8KNZ7ubLWRL45dal/Vf6qca81h
+      u59IIFRrVATvQwWrNZyITA/hZGMjD1jIwz887dELrGNdMm8kTNzb0ZQ4IqxvWiVX
+      OOsK+QKBgQCPq4exR+MZabv448Zdo5YlL/jyT67KUrxPFSuuILSc1kaYywYv6Rix
+      uvQHnPMdIkTbZKDJ/r4zSv9auDtLU+mJ7Uq7sQj7uyPhUOI5pDFlo3KdtA2PG1sw
+      ltTpA+eQtHM3BN40WCmfD0To7yWEaOrRXUCRaORh9uuO+wV+c0OuxQ==
+      -----END RSA PRIVATE KEY-----
