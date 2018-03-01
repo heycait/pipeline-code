@@ -6,4 +6,4 @@ image_resource:
 inputs:
   - name: pipeline-repo
 run:
-  path: pipeline-code/mytask.sh
+  path: pipeline-repo/mytask.sh
