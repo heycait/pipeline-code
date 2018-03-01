@@ -4,7 +4,7 @@ jobs:
   - get: pipeline-repo
     trigger: true
   - task: say-hello
-    file: mytask.yml
+    file: pipeline-code/mytask.yml
 
 resources:
 - name: pipeline-repo
